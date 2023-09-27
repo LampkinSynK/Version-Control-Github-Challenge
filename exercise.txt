@@ -1,0 +1,5 @@
+1. The Terminal is the back end of the computers operating system where we give it instructions to complete specific tasks.
+
+2. Git works on the back end used to manage coding. Github is web based and used to save and display code files as well as giving users the option to download and examine others code.
+
+3. To fork a repository you must first locate the repository you would like to fork. After searching it up and finding the one you want click on it and click the "Fork" icon. It will then take you to a page where you can name the fork or keep the original name. You can then click create fork. 
